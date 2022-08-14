@@ -1,0 +1,3 @@
+SILENT_MODE_CHATS = []
+ACTION_CHATS = {}
+Anti_Throttle_CHAT_LIST = []

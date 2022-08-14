@@ -1,0 +1,6 @@
+*.pyc
+*.session
+*.log
+.*session-journal
+__pycache__
+Cobb_bot.session-journal

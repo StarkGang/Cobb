@@ -1,0 +1,16 @@
+pandas
+scikit-learn
+pyrogram
+tgcrypto
+pyromod
+motor
+cachetools
+dnspython
+python-dotenv
+aiofiles
+numpy
+pillow
+git+https://github.com/pystorage/pykeyboard
+certifi
+psutil
+unidecode
